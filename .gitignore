@@ -1,1 +1,6 @@
 /verse-frontend/node_modules
+
+/verse-backend/node_modules
+/verse-backend/dist
+
+/verse-backend/.env
